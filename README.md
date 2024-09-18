@@ -1,9 +1,5 @@
 # Detection-of-Unusual-activities-on-Social-Media
-Here's the updated README with the refined content:
 
----
-
-# Twitter Spam Detection Project
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -116,7 +112,3 @@ These detailed descriptions highlight how each machine learning algorithm is uti
 
 ## Conclusion and Future Works
 In this project, we implemented various machine learning techniques to detect spam accounts on Twitter. The Extreme Machine Learning algorithm demonstrated the highest accuracy, outperforming other models. Future work may focus on identifying false news and rumor sources on social media platforms, as well as improving real-time detection methods for spam accounts.
-
---- 
-
-This README provides a structured and detailed explanation of your project. You can enhance it further with any additional specifics or references you'd like to include.
